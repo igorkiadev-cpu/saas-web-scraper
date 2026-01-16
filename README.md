@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Igor — Python Developer & Web Automation Freelancer
 
-I help businesses automate data collection, market research, and lead generation using Python — saving time, reducing manual work, and unlocking new revenue opportunities.
+I help businesses automate data collection, market research, and lead generation using Python — saving time, eliminating repetitive work, and unlocking new revenue opportunities.
 
 ---
 
@@ -15,35 +15,31 @@ I help businesses automate data collection, market research, and lead generation
 
 ## 🧩 Tech Stack
 **Languages:** Python  
-**Tools:** Requests, BeautifulSoup4, Selenium, Pandas  
-**Outputs:** CSV, XLSX, JSON, Databases, CRMs  
+**Libraries:** Requests, BeautifulSoup4, Selenium, Playwright, Pandas  
+**Outputs:** CSV, XLSX, JSON, Databases, CRMs
 
 ---
 
 ## 🧱 Featured Project
-
 📌 **SaaS Lead Scraper**  
-Automated tool that collects structured SaaS company data for sales intelligence and competitive analysis.
-
-➡ Tech: Python + Requests + BeautifulSoup + Pandas  
-➡ Outputs: CSV/XLSX (CRM-ready)
+Automates the extraction of SaaS company data for sales intelligence,
+competitive research and CRM enrichment. Produces ready-to-ingest datasets (CSV/XLSX).
 
 ---
 
 ## 📈 Use Cases
 - Sales lead generation
-- Market research
-- Competitor analysis
-- CRM enrichment
-- Automation pipelines
+- Market research & competitive analysis
+- CRM enrichment & data pipelines
+- Automation of research workflows
 
 ---
 
-## 📬 Contact & Work
-Available for freelance work, automation projects, and consulting.
+## 📬 Work With Me
+If you need to automate data collection or eliminate manual data research, let’s work together.
 
-📧 Email: **coloca seu email aqui**  
-💼 Upwork: **coloca o link quando tiver**  
+✔ Available for freelance, remote and contractual projects  
+✔ Open to long-term automation partnerships  
 
----
-⭐ If you like my work, consider starring a repo!
+📧 Email: **igork.iadev@gmail.com**  
+💼 Upwork: **https://www.upwork.com/freelancers/~014f3d71302eb3aa2c**
